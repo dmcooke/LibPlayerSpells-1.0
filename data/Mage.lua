@@ -78,6 +78,8 @@ lib:__RegisterSpells("MAGE", 70000, 6, {
 					 32612, -- Invisibility
 					 45438, -- Ice Block
 					110960, -- Greater Invisibility
+					235313, -- Blazing Barrier (Fire)
+					235450, -- Prismatic Barrier (Arcane)
 				},
 				BURST = {
 					 12042, -- Arcane Power
